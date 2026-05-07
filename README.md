@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Akshay Ashtunkar 👋 
+**Senior Software Engineer (SDE-3) @ Angel One**
 
-<!--
-**aaashtunkar/aaashtunkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building and scaling high-throughput, low-latency trading and backend systems. With over 7.5 years of experience, I focus on distributed system architecture and cloud-native platforms that maintain 99.99%+ availability.
 
-Here are some ideas to get you started:
+### 🏗️ What I'm working on
+- **US Stocks Trading Platform:** Leading the end-to-end architecture and delivery of scalable trading services at Angel One.
+- **Event-Driven Excellence:** Designing microservices on AWS (SQS, S3, Event Bridge) with strict fault isolation and SLA compliance.
+- **System Modernization:** Migrating legacy pipelines to AWS Glue/PySpark, reducing latency from hours to minutes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+- **Languages:** Golang, C++, Python, Java, SQL
+- **Systems:** Distributed Systems, Microservices, High-TPS Backends, Kafka, Redis
+- **Cloud:** AWS (ECS, SQS, SNS, Event Bridge, Glue), Docker, Kubernetes
+- **Reliability:** Grafana, Performance Tuning, Production Debugging
+
+### 🏅 Recognition
+- **Tech Titan Award (2024)** & **Individual Tech Excellence Award** @ Angel One
+- **M.Tech Gold Medalist** (Computer Engineering) from SV-NIT Surat
+- **Qualcomm Orion Award** (2022)
+
+---
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/akshayashtunkar) | aaashtunkar@gmail.com
